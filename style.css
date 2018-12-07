@@ -1,0 +1,35 @@
+.wrapper {
+    background: #ffc600;
+    height: 100vh; 
+    width: 100%; 
+    
+}
+
+.search {
+    width: 50vh; 
+    display: flex; 
+    padding-left: 39rem; 
+ 
+}
+
+.header {
+    height: 30%;
+    color: blue;
+    text-align: center; 
+    padding-top: 10%; 
+    font-size: 2.5rem; 
+   font-family: Marker Felt, fantasy; 
+}
+
+.header h2 {
+    font-size: 1rem; 
+}
+
+
+footer {
+    position: fixed;
+    top: 90%; 
+    left: 45.5%; 
+    text-align: center;
+    color: blue;
+}
